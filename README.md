@@ -1,4 +1,4 @@
-# Qytetet-Ruby
+# Qytetet Ruby
 
 ### Autor: David Infante Casas
 ### Fecha: 25/12/2017
