@@ -1,5 +1,7 @@
 # Qytetet Ruby
 
+## Prácticas de la asignatura Programación y Diseño Orientado a Objetos en la UGR
+
 ### Autor: David Infante Casas
 ### Fecha: 25/12/2017
 
